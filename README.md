@@ -9,11 +9,6 @@
 
 > 多对象存储桶`SDK`，支持`UCloud UFile`等云存储服务。
 
-## 运行条件
-
-- Python >= 3.8
-- requests
-
 ## 安装
 
 ```bash
