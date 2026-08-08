@@ -7,7 +7,7 @@
           <a href="https://tool.long920.cn/multibucket"><img src="https://app.readthedocs.org/projects/zhenzi0322-tool/badge/?version=latest" alt="Documentation Status"></a>
 </p>
 
-> 多对象存储桶`SDK`，支持`UCloud UFile`等云存储服务。
+> 多对象存储桶`SDK`，支持`UCloud UFile`、`阿里云 OSS`、`七牛云 Kodo`、`通用 S3` 等云存储服务。
 
 ## 安装
 
